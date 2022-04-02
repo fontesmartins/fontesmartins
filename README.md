@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Financial Analyst**
 
-- 🌱 I’m currently learning **Machine learning, R e SQL**
+- 🌱 I’m currently learning **Machine learning, R, Python and SQL**
 
 - 💬 Ask me about **R, Machine Learning, SQL, Dashboard**
 
