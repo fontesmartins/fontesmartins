@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Martins</h1>
-<h3 align="center">Data science and economics</h3>
+<h3 align="center">Student of Data science and economics</h3>
 
 - 🔭 I’m currently working on **Financial Analyst**
 
