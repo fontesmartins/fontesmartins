@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Martins</h1>
 <h3 align="center">Student of Data science and economics</h3>
 
-- 🔭 I’m currently working on **Financial Analyst**
+- 🔭 I’m currently working on **Data Analyst**
 
 - 🌱 I’m currently learning **Machine learning, R, Python and SQL**
 
