@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Data Analyst**
 
-- 🌱 I’m currently learning **Machine learning, R, Python and SQL**
-
 - 💬 Ask me about **R, Machine Learning, SQL, Dashboard**
 
 - 📫 How to reach me **kiel.fontesm@gmail.com**
