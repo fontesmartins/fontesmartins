@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analyst**
 
-- 💬 Ask me about **R, Machine Learning, SQL, Dashboard**
+- 💬 Ask me about **R, Machine Learning, Python, SQL, Dashboard**
 
 - 📫 How to reach me **kiel.fontesm@gmail.com**
 
