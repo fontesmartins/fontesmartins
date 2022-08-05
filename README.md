@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Martins</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Data Analyst**
+- 🔭 I’m currently working on **Analista de Analytics at Banco PAN**
 
-- 💬 Ask me about **R, Machine Learning, Python, SQL, Dashboard**
+- 💬 Ask me about **R, Machine Learning, Python, SQL, Power BI**
 
 - 📫 How to reach me **kiel.fontesm@gmail.com**
 
